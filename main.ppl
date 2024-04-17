@@ -1,11 +1,13 @@
 int main() {
     string var = "linguagem do marcone";
-    int mut var1 = 1;
+    int var1 = 1;
     bool boolean = false;
+
+    int var1 = 10;
+
+
     println("var\nvar");
-
-    int var1 = 2;
-
+    
     println(var);
     println(var1);
     println(boolean);

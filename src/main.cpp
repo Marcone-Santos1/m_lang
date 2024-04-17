@@ -5,6 +5,8 @@
 #include <vector>
 #include <unordered_map>
 
+using namespace std; 
+
 enum class TokenType {
     INT,
     FLOAT,
@@ -316,6 +318,9 @@ private:
 };
 
 int main(int argc, char* argv[]) {
+
+    setlocale(LC_ALL,"ptb");
+
     if (argc != 2) {
         std::cerr << "Usage: " << argv[0] << " <input_file>" << std::endl;
         return 1;

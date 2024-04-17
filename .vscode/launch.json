@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Users/ms580/Documents/TI/Portugol/perna_lang/src",
-      "program": "d:/Users/ms580/Documents/TI/Portugol/perna_lang/src/build/Debug/outDebug",
+      "cwd": "d:/Users/ms580/Documents/TI/Portugol/m_lang/src",
+      "program": "d:/Users/ms580/Documents/TI/Portugol/m_lang/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
